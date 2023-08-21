@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roberto Ochoa Cuevas.</h1>
 <h3 align="center">Passionate student currently learning to code, with a focus on web development. I am fluent in Spanish and have a B2 level of English.</h3>
 
-- 🔭 I’m currently studyng high school on [Instituto Mar de Cortes](https://institutomardecortes.edu.mx/)
+- 🔭 I’m currently studyng high school at [Instituto Mar de Cortes](https://institutomardecortes.edu.mx/)
 
 - 🌱 I’m currently learning **Java**
 
