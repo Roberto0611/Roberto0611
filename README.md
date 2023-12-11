@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web development.**
 
-- 👨‍💻 All of my projects are available at [https://robertoportfolio.surge.sh/](https://robertoportfolio.surge.sh/)
+- 👨‍💻 Python certification: [scientific-computing-with-python](https://www.freecodecamp.org/certification/RobertoOchoaCuevas/scientific-computing-with-python-v7)
 
 - 📫 How to reach me **ochoacuevasr@gmail.com**
 
