@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studyng high school on [Instituto Mar de Cortes](https://institutomardecortes.edu.mx/)
 
-- 🌱 I’m currently learning **AI with Python**
+- 🌱 I’m currently learning **PHP**
 
 - 👯 I’m looking to collaborate on **Web development.**
 
