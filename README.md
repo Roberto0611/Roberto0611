@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Roberto Ochoa Cuevas.</h1>
 <h3 align="center">Passionate student currently learning to code, with a focus on web development. I am fluent in Spanish and have a B2 level of English.</h3>
 
-- 🔭 I’m currently studyng high school on [Instituto Mar de Cortes](https://institutomardecortes.edu.mx/)
+- 🔭 I’m currently studyng university on [Instituto Tecnologico de estudios superiores de Monterrey](https://tec.mx/es)
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **Laravel**
 
-- 👯 I’m looking to collaborate on **Web development.**
+- 👯 I’m looking to collaborate on **software development**
 
 - 👨‍💻 Python certification: [scientific-computing-with-python](https://www.freecodecamp.org/certification/RobertoOchoaCuevas/scientific-computing-with-python-v7)
 
