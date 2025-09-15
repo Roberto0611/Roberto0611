@@ -50,26 +50,29 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
 </div>
 
 ###
 
-<h2 align="center">✉️Connect with me</h2>
+<h2 align="center">🎓 Certifications</h2>
 
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/roberto-ochoa-cuevas-9082a129b" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="ochoacuevasr@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="+526131003451" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-</div>
 
+  <!-- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate -->
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=46B3EB051D6CEF0D93DEF3F12E5AB8EE575B340791D0138E47CF3472E07DF143" target="_blank">
+    <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20AI%20Foundations%20Associate-FF0000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud Infrastructure AI Foundations Associate"/>
+  </a>
+
+  <!-- Scientific Computing with Python -->
+  <a href="https://freecodecamp.org/certification/robertoochoacuevas/scientific-computing-with-python-v7" target="_blank">
+    <img src="https://img.shields.io/badge/Scientific%20Computing%20with%20Python-0A0A23?style=for-the-badge&logo=python&logoColor=white" alt="Scientific Computing with Python"/>
+  </a>
+
+</div>
+  
 ###
 
 <div align="center">
