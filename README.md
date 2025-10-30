@@ -77,7 +77,23 @@ I enjoy creating efficient and scalable solutions — from PHP and Laravel backe
 
 ###
 
-<h2 align="center">🎓Certifications</h2>
+<h2 align="center">🎓 Certifications</h2>
+
+###
+
+<div align="center">
+
+  <!-- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate -->
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=46B3EB051D6CEF0D93DEF3F12E5AB8EE575B340791D0138E47CF3472E07DF143" target="_blank">
+    <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20AI%20Foundations%20Associate-FF0000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud Infrastructure AI Foundations Associate"/>
+  </a>
+
+  <!-- Scientific Computing with Python -->
+  <a href="https://freecodecamp.org/certification/robertoochoacuevas/scientific-computing-with-python-v7" target="_blank">
+    <img src="https://img.shields.io/badge/Scientific%20Computing%20with%20Python-0A0A23?style=for-the-badge&logo=python&logoColor=white" alt="Scientific Computing with Python"/>
+  </a>
+
+</div>
 
 ###
 
