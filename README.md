@@ -12,12 +12,21 @@
 
 ###
 
-<p align="center">I'm Roberto Ochoa, a developer and computer science student passionate about technology, learning, and building things that matter.
-I enjoy creating efficient and scalable solutions — from PHP and Laravel backends to JavaScript integrations and cloud-powered systems on AWS.</p>
+<p align="center">
+  <b>I build for the future.</b> From winning hackathons to speaking at <b>AWS Student Community Days</b>, my journey is about turning complex logic into user-centric products.
+</p>
 
-<p align="center">I believe in constant growth, both in code and in life. Every project, every challenge, and every line of code is part of a journey to become better.</p>
+<p align="center">
+  <b>Founder of Vetsify and RK Systems | 3x Hackathon Winner | ICPC Competitor</b>
+</p>
 
-<p align="center">"With my own hands, I will create my paradise on this earth, for no one will come to save me."</p>
+<p align="center">
+  My mission is <b>bridging the gap between high-performance engineering and business value.</b> Whether I'm optimizing a C++ algorithm for competition or architecting a serverless backend on AWS, I focus on efficiency and scalability.
+</p>
+
+<p align="center">
+  "With my own hands, I will create my paradise on this earth, for no one will come to save me."
+</p>
 
 ###
 
