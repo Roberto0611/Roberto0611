@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <b> 4x Hackathon Winner | ICPC Competitor</b>
+  <b> 6x Hackathon Winner | ICPC Competitor</b>
 </p>
 
 <p align="center">
