@@ -17,7 +17,7 @@
 OS:        Tec de Monterrey OS (ITC build, class of 2029)
 Host:      Roberto Ochoa Cuevas
 Role:      Software Developer Analyst @ Runa HR
-Kernel:    2nd semester // always compiling
+Kernel:    3rd semester // always compiling
 Shell:     bash / laravel / fastapi
 Uptime:    6x hackathon winner
 Terminal:  VS Code + neovim vibes
