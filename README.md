@@ -36,7 +36,7 @@ Quote:     "With my own hands, I will create
 ### About
 
 ```
-> 6x Hackathon Winner | ICPC Competitor | AWS Student Community Day Speaker
+> 7x Hackathon Winner | ICPC Competitor | AWS Student Community Day Speaker
 >
 > I turn complex logic into products people actually want to use.
 > Whether it's optimizing an algorithm for competition or architecting
