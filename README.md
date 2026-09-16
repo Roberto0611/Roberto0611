@@ -19,7 +19,7 @@ Host:      Roberto Ochoa Cuevas
 Role:      Software Developer Analyst @ Runa HR
 Kernel:    3rd semester // always compiling
 Shell:     bash / laravel / fastapi
-Uptime:    6x hackathon winner
+Uptime:    7x hackathon winner
 Terminal:  VS Code + neovim vibes
 Languages: PHP · Python · JS · Go · C++
 Frameworks: Laravel · FastAPI · React
